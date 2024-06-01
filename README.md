@@ -32,6 +32,10 @@ Go into the folder, and open the HTML file using your favorite broswer.
 
 To spend more time coding and less time fiddling with whitespace, this project uses code conventions and styles to encourage consistency. Code with a consistent style is easier (and less error-prone!) to review, maintain, and understand.
 
+## Thanks
+
+- [Write a fun floating card effect with pure CSS ~](https://www.bilibili.com/video/BV1FJ4m1K7NG)
+
 ## License
 
 This project is licensed under the GPL 3.0 License.
