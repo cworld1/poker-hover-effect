@@ -14,6 +14,10 @@ A demo HTML program that shows poker hover effect only using CSS.
 
 ![screenshot](./src/PixPin_2024-06-01_22-46-32.png)
 
+## Online demo
+
+[Demo (Github)](https://cworld1.github.io/poker-hover-effect/)
+
 ## Local development
 
 Clone the repository:
